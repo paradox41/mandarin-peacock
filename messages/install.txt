@@ -1,0 +1,11 @@
+Thanks for installing Mandarin Peacock!
+
+
+How to activate
+===============
+
+Activate the color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).
+
+*Example settings*
+
+# ADD EXAMPLE SETTINGS
