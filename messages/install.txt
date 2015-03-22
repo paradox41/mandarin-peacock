@@ -8,4 +8,7 @@ Activate the color scheme by modifying your user preferences file, which you can
 
 *Example settings*
 
-# ADD EXAMPLE SETTINGS
+    {
+      "theme": "mandarin-peacock.sublime-theme",
+      "color_scheme": "Packages/Theme - Mandarin-Peacock/mandarin-peacock.tmTheme"
+    }
