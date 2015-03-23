@@ -6,7 +6,7 @@ A fork of both [daylerees](https://github.com/daylerees/colour-schemes) Peacock 
 
 This uses the Minimal theme from [Minimal-Sublime-Text-Theme](https://github.com/AntoineBoulanger/Minimal-Sublime-Text-Theme) and all credit goes to the creator.
 
-This uses the icons from [Cobalt2](https://github.com/wesbos/cobalt2) and again, all credit goes to the creator
+This uses the icons from [Cobalt2](https://github.com/wesbos/cobalt2) and again, all credit goes to the creator.
 
 ### How to Install
 
