@@ -176,11 +176,11 @@
             <key>name</key>
             <string>Function name</string>
             <key>scope</key>
-            <string>entity.name.function</string>
+            <string>entity.name.function, meta.function-call.static.with-arguments.js</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#ccb00a</string>
+                <string>#EDE0CE</string>
             </dict>
         </dict>
         <dict>
@@ -671,6 +671,29 @@
                 <string>#ede0ce</string>
             </dict>
         </dict>
+        <dict>
+            <key>name</key>
+            <string>Babel: JavaScript - Object key</string>
+            <key>scope</key>
+            <string>constant.other.object.key.js, string.unquoted.label.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ede0ce</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Babel: JavaScript - Function arguments</string>
+            <key>scope</key>
+            <string>variable.parameter.function.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FF2F92</string>
+            </dict>
+        </dict>
+        <!-- End babel -->
         <dict>
             <key>name</key>
             <string>SublimeLinter Error</string>
