@@ -1,0 +1,31 @@
+{
+  "name": "mandarin-peacock-syntax",
+  "version": "1.0.0",
+  "description": "Sublime Text syntax theme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paradox41/mandarin-peacock.git"
+  },
+  "keywords": [
+    "sublime",
+    "syntax",
+    "dark"
+  ],
+  "author": "Will <will.soto9+github@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/paradox41/mandarin-peacock/issues"
+  },
+  "homepage": "https://github.com/paradox41/mandarin-peacock#readme",
+  "devDependencies": {
+    "babel-core": "^6.2.1",
+    "babel-preset-es2015": "^6.1.18",
+    "gulp": "^3.9.0",
+    "gulp-bump": "^1.0.0",
+    "gulp-conventional-changelog": "^0.7.0",
+    "gulp-filter": "^3.0.1",
+    "gulp-git": "^1.4.0",
+    "gulp-tag-version": "^1.3.0",
+    "run-sequence": "^1.1.4"
+  }
+}
