@@ -105,10 +105,8 @@
             <string>variable</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string />
                 <key>foreground</key>
-                <string>#26A6A6</string>
+                <string>#ede0ce</string>
             </dict>
         </dict>
         <dict>
@@ -148,15 +146,24 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>Storage type (Class)</string>
+            <key>scope</key>
+            <string>storage.type.class.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#26A6A6</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Class name</string>
             <key>scope</key>
             <string>entity.name.class</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>underline</string>
                 <key>foreground</key>
-                <string>#ff5d38</string>
+                <string>#ede0ce</string>
             </dict>
         </dict>
         <dict>
@@ -648,7 +655,17 @@
                 <string>#bcd42a</string>
             </dict>
         </dict>
-        <!-- Begin babel -->
+        <dict>
+            <key>name</key>
+            <string>JavaScript: Control Flow</string>
+            <key>scope</key>
+            <string>keyword.control.flow.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FF5D38</string>
+            </dict>
+        </dict>
         <dict>
             <key>name</key>
             <string>Babel: JavaScript - module</string>
@@ -693,38 +710,37 @@
                 <string>#FF2F92</string>
             </dict>
         </dict>
-        <!-- End babel -->
         <dict>
             <key>name</key>
-            <string>SublimeLinter Error</string>
+            <string>Babel: JavaScript - keyword 'this'</string>
             <key>scope</key>
-            <string>sublimelinter.mark.error</string>
+            <string>variable.language.this.js</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#D02000</string>
+                <string>#2EA662</string>
             </dict>
         </dict>
         <dict>
             <key>name</key>
-            <string>SublimeLinter Gutter Mark</string>
+            <string>Babel: JavaScript - Operator Accessor</string>
             <key>scope</key>
-            <string>sublimelinter.gutter-mark</string>
+            <string>keyword.operator.accessor.js</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#FFFFFF</string>
+                <string>#ede0ce</string>
             </dict>
         </dict>
         <dict>
             <key>name</key>
-            <string>SublimeLinter Warning</string>
+            <string>Gulpfile JS: JavaScript - Function</string>
             <key>scope</key>
-            <string>sublimelinter.mark.warning</string>
+            <string>source.gulpfile.js variable.function.js</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#DDB700</string>
+                <string>#ede0ce</string>
             </dict>
         </dict>
     </array>

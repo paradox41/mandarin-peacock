@@ -4,19 +4,15 @@
 
 A fork of both [daylerees](https://github.com/daylerees/colour-schemes) Peacock theme and the [Mandarin syntax theme](https://github.com/jakedeichert/mandarin-syntax) for Atom.
 
-This uses the Minimal theme from [Minimal-Sublime-Text-Theme](https://github.com/AntoineBoulanger/Minimal-Sublime-Text-Theme) and all credit goes to the creator.
-
-This uses the icons from [Cobalt2](https://github.com/wesbos/cobalt2) and again, all credit goes to the creator.
-
 ### How to Install
 
 #### Via Package Control - NOT YET
 
-The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Mandarin Peacock is listed as `Theme - Mandarin Peacock`.
+The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Mandarin Peacock is listed as `Mandarin Peacock Syntax`.
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
 2. Choose `Package Control: Install Package`
-3. Find `Theme - Mandarin Peacock` and hit <kbd>Enter</kbd>
+3. Find `Mandarin Peacock Syntax` and hit <kbd>Enter</kbd>
 
 #### Manual
 
