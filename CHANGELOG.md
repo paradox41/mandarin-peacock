@@ -1,3 +1,13 @@
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/paradox41/mandarin-peacock/compare/v1.0.0...v1.1.0) (2015-11-28)
+
+
+### Bug Fixes
+
+* **tmTheme:** update selection color ([3bf61a6](https://github.com/paradox41/mandarin-peacock/commit/3bf61a6))
+
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2015-11-26)
 
